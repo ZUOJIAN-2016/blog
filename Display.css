@@ -1,0 +1,66 @@
+body
+{
+	background-color:#003f54;
+}
+h1
+{
+	text-align:center;
+	text-shadow: 5px 5px 5px #800080;
+}
+#header
+{
+	border-style:outset;
+	border-color:#99FF99;
+	border-width:10px;
+}
+#photo
+{
+	border-radius: 25px;
+	background:url("20140504175833_5NtH5.JPG");
+	background-size:100px 100px;
+	background-repeat:repeat;
+	padding:20px;
+	width:80px;
+	height:80px;
+}
+#Menu-Top
+{
+	width:100%;
+	height:40px;
+	background-color:#FFAA33;
+	
+}
+#menu-left
+{
+	width:20%;
+    height:600px;
+	background-color:#5555FF;
+	float:left;
+	
+}
+#menu-right
+{
+	width:20%;
+	height:600px;
+	background-color:#5555FF;
+	float:right;
+	
+}
+#Content
+{
+	background-color:#CCDDFF;
+	width:100%;height:1000px;
+}
+#Content_1
+{
+	width:59.2%;
+	height:600px;
+	border-style:solid;
+	border-width:3px;
+	float: right;
+}
+#Comment
+{
+	position:fixed;
+	bottom:0;
+}
